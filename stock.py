@@ -29,7 +29,6 @@ else:
 
 
 
-
 # if(freeruns.get("year") > 2020):
 #     print(freeruns.get("name"), "is a new shoe" )
     
