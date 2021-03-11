@@ -55,6 +55,8 @@
 # nums = [1, 2, 5, 4, 4.5]
 # nums2 = [2, 4, 5, 6]
 
+
+#num.append()
 # nums2.insert(2, 4.5)
 # nums.sort()
 # # nums.reverse()
