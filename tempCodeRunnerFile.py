@@ -1,1 +1,0 @@
-double_nums.insert[2, 6, 4, 10, 6]

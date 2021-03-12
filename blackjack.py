@@ -47,6 +47,5 @@ if __name__ == '__main__':
         elif dealer_bust:
             print("House busts! Player wins!")
             
-    
-        
+
         
